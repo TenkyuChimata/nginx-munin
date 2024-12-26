@@ -2,6 +2,8 @@
 
 ** Introduction
 
+   need apt install libwww-perl first.
+
    These three perl scripts are [[http://munin-monitoring.org][Munin]] plugins for monitoring the [[http://nginx.org][nginx]]
    HTTP server.
 
